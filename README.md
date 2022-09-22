@@ -7,7 +7,7 @@ A bot that autonomously explores a maze using SLAM and A* path planning. The bot
  <img src="https://img.youtube.com/vi/Ix8HPOaqvUw/0.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
 
-
+# Path planned by A-star vs. actual trajectory
 ![alt text](https://github.com/rahulagrawal048/Exploration-bot/blob/main/images/astar.png?raw=true)
 
 
